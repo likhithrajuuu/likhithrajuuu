@@ -1,21 +1,19 @@
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Likhith+Raju!;" />
 </h1>
 
 <h3 align="center">A passionate Software Developer from India</h3>
-
 <br/>
 
 <div align="center">
  
- 🔭 I’m a software engineer
+ 🔭 I’m a software engineer always shipping something fun!
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/PrinceMishra30/PrinceMishra30/issues)**
+💬 Ask me about **Java Spring Boot, Node.js, React, PostgreSQL, C++... or anything [here](https://github.com/likhithrajuuu/likhithrajuuu/issues)**
 
-⚡ Fun fact **I built my first full-stack app before I even knew what APIs were**
+⚡ Fun fact: **I built my first full-stack app before I even knew what APIs were!**
 
 </div>
  
@@ -36,8 +34,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,aws,express,firebase,mongodb,c,java,mysql,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,java,spring,cpp,postgres,mysql,tailwind,git,vscode,github,figma,html,css,docker,aws" />
+    <br>
 </div>
 
 <br/>
@@ -46,26 +44,22 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PrinceMishra30/PrinceMishra30/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/likhithrajuuu/likhithrajuuu/output/github-contribution-grid-snake.svg" />
 </div>
   
-  <br/><br/><br/>
-</div>
+<br/><br/><br/>
 
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=PrinceMishra30&count_private=true&theme=radical&border_radius=20&hide_border=true&dates=filled&fire=ff0000" alt="streak stats"/>
-  <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=PrinceMishra30&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=15&size_weight=0.6&count_weight=0.6&exclude_repo=github-readme-stats&hide_border=true" alt="top langs" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=likhithrajuuu&count_private=true&theme=radical&border_radius=20&hide_border=true&dates=filled&fire=ff0000" alt="streak stats"/>
+  <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=likhithrajuuu&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=15&size_weight=0.6&count_weight=0.6&exclude_repo=github-readme-stats&hide_border=true" alt="top langs" />
 </div>
 
 <br/><br/>
 
 <hr/>
-
-<br/>
-
 
 <br/>
