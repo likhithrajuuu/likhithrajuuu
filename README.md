@@ -9,13 +9,13 @@
 
 <div align="center">
  
- 🔭 I’m a final-year student focused on crafting innovative solutions.
+ 🔭 I’m a software engineer
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/PrinceMishra30/PrinceMishra30/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **I built my first full-stack app before I even knew what APIs were**
 
 </div>
  
@@ -67,8 +67,5 @@
 
 <br/>
 
-<div align="center">
-<a href='https://buymeacoffee.com/princemishra30' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
 
 <br/>
