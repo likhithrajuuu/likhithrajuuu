@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=32&pause=1000&color=F7971E&center=true&vCenter=true&multiline=true&width=600&height=70&duration=3500&lines=I'm+Likhith+Raju+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Building+Cool+Stuff+Every+Day+%F0%9F%92%A1" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=32&pause=1000&color=F7971E&center=true&vCenter=true&multiline=true&width=600&height=70&duration=3500&lines=I'm+Likhith+Raju+%F0%9F%91%8B;%F0%9F%92%BB;Building+Cool+Stuff+Every+Day+%F0%9F%92%A1" />
 </h1>
 
 <h3 align="center">A passionate Software Developer from India</h3>
