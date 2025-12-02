@@ -1,6 +1,6 @@
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hey+there+👋+I'm+Likhith+Raju;Full-Stack+Developer+%7C+Java+%7C+React;DSA+Enthusiast+%7C+350%2B+LeetCode+Problems;Sports+Fan+%7C+Tech+Lover+%7C+Builder+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hey+there+👋+I'm+Likhith+Raju;" />
 </p>
 
 ---
@@ -45,30 +45,24 @@
 
 ---
 
-## 🧩 **Fun Animations**
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
-</p>
-
----
-
 ## 🤝 **Connect With Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/likhith-raju-p-775564179/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/likhithrajuuu"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://www.instagram.com/likhithrajuuu/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.leetcode.com/likhithraju1/"><img src="https://skillicons.dev/icons?i=leetcode"/></a>
 </p>
 
 ---
 
 ## 🐍 **Snake Eating My Contributions** (fun!)
 <p align="center">
-  <img src="https://github.com/likhithrajuuu/likhithrajuuu/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/likhithrajuuu/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 🚀 **Thanks for Visiting!**
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=likhithrajuu&color=brightgreen">
+  <img src="https://komarev.com/ghpvc/?username=likhithrajuuu&color=brightgreen">
 </p>
