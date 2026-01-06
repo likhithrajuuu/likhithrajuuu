@@ -28,11 +28,20 @@
 
 ## 🔥 **Leetcode Stats**
 <div align="center">
-  <h2>📊 LeetCode</h2>
-  <a href="https://leetcode.com/likhithraju1/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/others/25100.gif" height="200" width="200" />
-    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" height="200" width="200" />
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="200" width="200" />
+  <a href="https://leetcode.com/likhithraju1/">
+    <img src="https://leetcard.jacoblin.cool/likhithraju1?theme=dark&font=Karma&ext=contest" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://leetcode.com/likhithraju1/">
+    <img src="https://assets.leetcode.com/static_assets/others/25100.gif" height="100" width="100" />
+  </a>
+  <a href="https://leetcode.com/likhithraju1/">
+    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" height="100" width="100" />
+  </a>
+  <a href="https://leetcode.com/likhithraju1/">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="100" width="100" />
   </a>
 </div>
 
