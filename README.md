@@ -29,7 +29,7 @@
 ## 🔥 **Leetcode Stats**
 <div align="center">
   <h2>📊 LeetCode</h2>
-  <a href="https://leetcode.com/RAMYAD06/" target="_blank">
+  <a href="https://leetcode.com/likhithraju1/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/others/2550.gif" height="200" width="200" />
   </a>
 </div>
