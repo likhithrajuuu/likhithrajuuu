@@ -2,9 +2,9 @@
 🎓 Graduated from **RNS Institute of Technology**  
 💼 Ex-Intern @ **Mphasis** (Full Stack – Java Spring Boot + React.js)  
 💡 Passionate about building apps like **ShowTime** (Movies, Events, Sports, Plays)  
-🏆 Solved **350+ LeetCode problems** (Top 8%)  
+🏆 Solved **400+ LeetCode problems** (Top 8%)  
 ⚡ Love system design, backend engineering, and sleek UI polishing  
-🧩 Always learning, always building, always curious  
+🧩 Always learning, always building, always curious
 
 ---
 
