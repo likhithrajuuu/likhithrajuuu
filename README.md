@@ -1,6 +1,6 @@
 ## 🚀 **About Me**
 🎓 Graduated from **RNS Institute of Technology**  
-💼 Ex-Intern @ **Mphasis** (Full Stack – Java Spring Boot + React.js)  
+💼 SDE @ **Webknot Technologies** (Full Stack – Java Spring Boot + React.js + Next.js)  
 💡 Passionate about building apps like **ShowTime** (Movies, Events, Sports, Plays)  
 🏆 Solved **400+ LeetCode problems** (Top 8%)  
 ⚡ Love system design, backend engineering, and sleek UI polishing  
