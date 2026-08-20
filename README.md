@@ -60,34 +60,57 @@ Currently Building:
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<br/>
 
-### 🎬 ShowTime
+### 🎬 &nbsp;ShowTime
 
-Entertainment discovery platform inspired by BookMyShow
+**Entertainment discovery platform inspired by BookMyShow — movies, events & sports, all in one place.**
 
-* 🎟 Movies, Events & Sports
-* ⚡ Java Spring Boot APIs
-* 🎨 React + Next.js
-* ☁ Dockerized microservices
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-00E5FF?style=flat-square&logo=kubernetes&logoColor=white" />
+</p>
 
-</td>
-<td width="50%">
+```diff
++ 🎟  Movies, events & sports booking, unified
++ ⚡  Java Spring Boot APIs powering the backend
++ 🎨  React + Next.js for a fast, polished frontend
++ ☁️  Dockerized microservices, built to scale
+```
 
-### 📊 TraceFlow
+<a href="https://github.com/likhithrajuuu/ShowTime">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=likhithrajuuu&repo=ShowTime&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
 
-Modern observability platform
+<br/>
+<br/>
 
-* 📡 OpenTelemetry
-* ⚙ Go Analytics Ingestor
-* 📈 ClickHouse + Kafka
-* 🔍 Distributed tracing
+### 📊 &nbsp;TraceFlow
 
-</td>
-</tr>
-</table>
+**A modern observability platform for tracing, monitoring, and understanding distributed systems.**
+
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white" />
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Distributed_Tracing-00E5FF?style=flat-square&logo=jaeger&logoColor=white" />
+</p>
+
+```diff
++ 📡  OpenTelemetry instrumentation end to end
++ ⚙️  Go-based analytics ingestor for high throughput
++ 📈  ClickHouse + Kafka for real-time pipelines
++ 🔍  Distributed tracing across every service
+```
+
+<a href="https://github.com/likhithrajuuu/TraceFlow">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=likhithrajuuu&repo=TraceFlow&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
 
 ---
 
