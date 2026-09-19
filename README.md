@@ -1,229 +1,148 @@
 <div align="center">
 
-```
-01001100 01101001 01101011 01101000 01101001 01110100 01101000
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=FFB86C&center=true&vCenter=true&width=620&height=45&lines=Backend+engineer%2C+full-stack+when+needed.;I+build+systems+that+survive+traffic.;Java+%C2%B7+Spring+Boot+%C2%B7+Kafka+%C2%B7+Kubernetes">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=B45309&center=true&vCenter=true&width=620&height=45&lines=Backend+engineer%2C+full-stack+when+needed.;I+build+systems+that+survive+traffic.;Java+%C2%B7+Spring+Boot+%C2%B7+Kafka+%C2%B7+Kubernetes">
+  <img alt="Backend engineer, full-stack when needed" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=B45309&center=true&vCenter=true&width=620&height=45&lines=Backend+engineer%2C+full-stack+when+needed.;I+build+systems+that+survive+traffic.;Java+%C2%B7+Spring+Boot+%C2%B7+Kafka+%C2%B7+Kubernetes">
+</picture>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=root%40likhithraju%3A~%24+whoami;%3E+Full+Stack+Software+Engineer;%3E+Java+Backend+%7C+System+Design;root%40likhithraju%3A~%24+_" alt="Typing SVG"/>
+# Likhith Raju P
+
+**Software Development Engineer** at Webknot Technologies · Bengaluru, India
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-B45309?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/likhith-raju-p-775564179)
+[![LeetCode](https://img.shields.io/badge/LeetCode-B45309?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/likhithraju1)
+[![Email](https://img.shields.io/badge/Email-B45309?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:YOUR_EMAIL@example.com)
 
 </div>
+
+---
+
+## About
+
+I work on the parts of a product that users never see and always feel — service boundaries, message queues, data models, and the instrumentation that tells you what broke at 2am. Java and Spring Boot are home; I pick up the frontend when a project needs one rather than because I want to live there.
+
+Right now I'm most interested in **event-driven architecture** and **observability**: how systems behave under load, and how you find out when they stop behaving.
+
+> [!NOTE]
+> **Open to backend and platform engineering roles.** Best reached on [LinkedIn](https://linkedin.com/in/likhith-raju-p-775564179).
+
+**A few facts**
+
+| | |
+|---|---|
+| 🔭 **Building** | TraceFlow — a distributed tracing pipeline on OpenTelemetry + Kafka |
+| 🌱 **Learning** | Kubernetes, cloud-native patterns, event-driven design |
+| 🧩 **Practice** | 400+ LeetCode problems, top 8% — system design starts with data structures |
+| 💬 **Ask me about** | Spring Boot internals, Kafka, concurrency, anything observability |
+
+---
+
+## Stack
+
+<table>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,nodejs,kafka,redis&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,nodejs,kafka,redis&theme=light">
+        <img height="44" alt="Java, Spring Boot, Node.js, Kafka, Redis" src="https://skillicons.dev/icons?i=java,spring,nodejs,kafka,redis">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data &amp; Infra</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,docker,kubernetes,aws,jenkins&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,docker,kubernetes,aws,jenkins&theme=light">
+        <img height="44" alt="Postgres, MySQL, Docker, Kubernetes, AWS, Jenkins" src="https://skillicons.dev/icons?i=postgres,mysql,docker,kubernetes,aws,jenkins">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind&theme=light">
+        <img height="44" alt="React, Next.js, TypeScript, Tailwind" src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind">
+      </picture>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Featured work
+
+### ShowTime — entertainment booking platform
+
+Movies, live events and sports in a single booking flow, in the shape of BookMyShow.
+
+**The hard part.** Seat inventory under concurrent demand. When a thousand people want the same three seats, correctness lives in how you handle holds, expiry and release — so that's where the design effort went, rather than in the CRUD around it.
+
+`Java` `Spring Boot` `Microservices` `React` `Next.js` `Docker`
+
+```
+booking-service/     seat holds, reservations, payments
+api-gateway/         routing, auth, rate limiting
+client/              React + Next.js frontend
+docker-compose.yml   one command to run the whole thing
+```
+
+[**→ Read the code**](https://github.com/likhithrajuuu/ShowTime)
 
 <br/>
 
-```bash
-┌──(likhithraju㉿bengaluru)-[~]
-└─$ cat intro.txt
-```
+### TraceFlow — observability platform
+
+Tracing and understanding distributed systems while they're running, not after the incident review.
+
+**The hard part.** Ingesting high-volume spans without dropping them. Kafka absorbs the burst, the ingestor writes in batches instead of per-span, and a trace stays queryable end to end across service hops.
+
+`OpenTelemetry` `Kafka` `Distributed Tracing`
 
 ```
-> initializing profile...
-> loading identity module...  [OK]
-> access granted.
-
-  Hey, I'm Likhith Raju
-  Full Stack Software Engineer • Java Backend • System Design Enthusiast
+otel-collector/      instrumentation + span collection
+ingestor/            batched writes into storage
+pipeline/            Kafka-backed, real-time
+tracer/              end-to-end distributed tracing
 ```
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=likhithrajuuu&label=PROFILE+VIEWS&color=00FF41&style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/github/followers/likhithrajuuu?style=flat-square&color=00FF41&label=FOLLOWERS&labelColor=0D1117" />
-<img src="https://img.shields.io/github/stars/likhithrajuuu?affiliations=OWNER&style=flat-square&color=00FF41&label=STARS&labelColor=0D1117" />
-</div>
+[**→ Read the code**](https://github.com/likhithrajuuu/TraceFlow)
 
 ---
 
-### `$ cat /etc/passwd | grep likhithraju`
-
-```yaml
-user     : likhithraju
-role     : Software Development Engineer @ Webknot Technologies
-location : Bengaluru, India
-
-stack:
-  backend  : [Java, Spring Boot, Go, Node.js, Kafka]
-  frontend : [React.js, Next.js, TypeScript]
-  infra    : [Docker, Kubernetes, AWS, Jenkins]
-
-leetcode : 400+ problems solved | Top 8%
-
-build_queue:
-  - 🎬 ShowTime    [in-progress]
-  - 📊 TraceFlow   [in-progress]
-
-status   : "Always learning. Always building. Always curious."
-```
-
----
-
-### `$ ls -la ./tech-arsenal/`
-
-```
-drwxr-xr-x  backend/
-```
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,go,nodejs,kafka,mysql,postgres,docker,kubernetes,aws,jenkins,redis,git,github&perline=7" theme="dark"/>
-</p>
-
-```
-drwxr-xr-x  frontend/
-```
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,figma&perline=8" theme="dark"/>
-</p>
-
----
-
-### `$ ./run.sh --list-projects`
-
-```
-[  0.001234 ] Booting project loader...
-[  0.004521 ] Found 2 active builds
-```
-
-```diff
-+ [PROJECT_01] ShowTime
-```
-> Entertainment discovery platform inspired by BookMyShow. Movies, events & sports — unified in one booking experience.
-
-<p>
-  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=springboot&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Microservices-000000?style=flat-square&logo=kubernetes&logoColor=00FF41" />
-</p>
-
-```bash
-$ tree ShowTime/
-├── booking-service/     # 🎟  movies, events & sports
-├── api-gateway/         # ⚡  Java Spring Boot APIs
-├── client/              # 🎨  React + Next.js
-└── docker-compose.yml   # ☁️  dockerized microservices
-```
-
-<a href="https://github.com/likhithrajuuu/ShowTime">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=likhithrajuuu&repo=ShowTime&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&icon_color=00FF41" />
-</a>
-
-<br/>
-
-```diff
-+ [PROJECT_02] TraceFlow
-```
-> A modern observability platform for tracing, monitoring, and understanding distributed systems in real time.
-
-<p>
-  <img src="https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/ClickHouse-000000?style=flat-square&logo=clickhouse&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apachekafka&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Distributed_Tracing-000000?style=flat-square&logo=jaeger&logoColor=00FF41" />
-</p>
-
-```bash
-$ tree TraceFlow/
-├── ingestor/             # ⚙️  Go analytics ingestor
-├── otel-collector/       # 📡  OpenTelemetry instrumentation
-├── pipeline/             # 📈  ClickHouse + Kafka, real-time
-└── tracer/               # 🔍  distributed tracing, end to end
-```
-
-<a href="https://github.com/likhithrajuuu/TraceFlow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=likhithrajuuu&repo=TraceFlow&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&icon_color=00FF41" />
-</a>
-
-```
-[  0.009812 ] All builds nominal.
-```
-
----
-
-### `$ curl leetcode.com/likhithraju1 --stats`
+## Activity
 
 <div align="center">
 
-<a href="https://leetcode.com/likhithraju1">
-<img src="https://leetcard.jacoblin.cool/likhithraju1?theme=dark&font=Fira+Code&ext=contest" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=likhithrajuuu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFB86C&icon_color=FFB86C&text_color=C9D1D9&ring_color=FFB86C">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=likhithrajuuu&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=B45309&icon_color=B45309&text_color=24292F&ring_color=B45309">
+  <img height="160" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=likhithrajuuu&show_icons=true&hide_border=true">
+</picture>
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=likhithrajuuu&hide_border=true&background=0D1117&ring=FFB86C&fire=FFB86C&currStreakLabel=FFB86C&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=likhithrajuuu&hide_border=true&background=FFFFFF&ring=B45309&fire=B45309&currStreakLabel=B45309&sideLabels=24292F&dates=57606A&sideNums=24292F&currStreakNum=24292F">
+  <img height="160" alt="Contribution streak" src="https://streak-stats.demolab.com?user=likhithrajuuu&hide_border=true">
+</picture>
 
-<img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="90"/>
-<img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="90"/>
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="90"/>
+<br/><br/>
 
-</div>
-
----
-
-### `$ ./analytics --mode=full --output=svg`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=likhithrajuuu&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41&ring_color=00FF41"/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=likhithrajuuu&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhithrajuuu&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=likhithrajuuu&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF"/>
-
-</div>
-
----
-
-### `$ ps aux | grep current_focus`
-
-```
-PID   STATUS    PROCESS
-0001  running   building ShowTime — scalable microservices
-0002  running   developing TraceFlow — OpenTelemetry + Go
-0003  running   learning cloud-native architecture & k8s
-0004  running   mastering advanced system design patterns
-0005  running   solving leetcode consistently
-```
-
----
-
-### `$ cat ~/.contact`
-
-<div align="center">
-
-<a href="https://linkedin.com/in/likhith-raju-p-775564179">
-  <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
-</a>
-<a href="https://github.com/likhithrajuuu">
-  <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" />
-</a>
-<a href="https://instagram.com/likhithrajuuu">
-  <img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF41" />
-</a>
-<a href="https://leetcode.com/likhithraju1">
-  <img src="https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=00FF41" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=likhithrajuuu&hide_border=true&bg_color=0D1117&color=FFB86C&line=FFB86C&point=C9D1D9&area=true&area_color=FFB86C">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=likhithrajuuu&hide_border=true&bg_color=FFFFFF&color=B45309&line=B45309&point=24292F&area=true&area_color=B45309">
+  <img alt="Contribution activity over the past year" src="https://github-readme-activity-graph.vercel.app/graph?username=likhithrajuuu&hide_border=true">
+</picture>
 
 </div>
 
 ---
 
 <div align="center">
-
-```
-01000001 01101100 01110111 01100001 01111001 01110011 00100000
-01101100 01100101 01100001 01110010 01101110 01101001 01101110 01100111 00101110
-```
-
-*"Always learning. Always building. Always curious."*
-
-`$ shutdown -r --message "see you in the next commit"` █
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=100&section=footer"/>
-
+<sub>Always learning. Always building. Always curious.</sub>
 </div>
